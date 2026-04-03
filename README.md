@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner1" alt="Food Website Banner" />
+  <img src="banner1.png" alt="Food Website Banner" />
 </p>
 
 <h1 align="center">🍔 Food Website Project</h1>
@@ -11,7 +11,7 @@
 ---
 
 ## 🔥 Live Preview  
-👉 https://github.com/rishii-in/To_do_list_python.git  
+👉https://github.com/rishii-in/foodwebsitebyrishi.git
 
 ---
 
@@ -63,4 +63,4 @@ And this is the result. 🚀
 Clone the repository:
 
 ```bash
-git clone https://github.com/rishii-in/To_do_list_python.git
+git clone https://github.com/rishii-in/foodwebsitebyrishi.git
