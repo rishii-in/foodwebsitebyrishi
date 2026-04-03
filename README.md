@@ -11,7 +11,7 @@
 ---
 
 ## 🔥 Live Preview  
-👉https://github.com/rishii-in/foodwebsitebyrishi.git
+👉 https://rishii-in.github.io/foodwebsitebyrishi/
 
 ---
 
